@@ -1,5 +1,5 @@
 <!----------------------------------- Banner - Subrata Mukherjee ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](#)
+[![MasterHead](https://raw.githubusercontent.com/Subr1ata/Subr1ata/main/banner.jpg)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
