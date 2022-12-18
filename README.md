@@ -6,7 +6,7 @@
   <h3>Hi, I'm Subrata Mukherjee</h3>
   <p>I am Full Stack Web Developer. I am also an Educator. I teach on
     <a href="https://www.coursehero.com/profile/Subrata_Mukherjee/">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Course_hero_logo.png/200px-Course_hero_logo.png" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Course_hero_logo.png/100px-Course_hero_logo.png" />
     </a> having 100+ questions answered.
   </P> 
 </div>
