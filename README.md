@@ -1,5 +1,5 @@
 <!----------------------------------- Banner - Subrata Mukherjee ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/Subr1ata/Subr1ata/main/Full_Stack_Web_Developer.png)](#)
+[![MasterHead](https://raw.githubusercontent.com/Subr1ata/Subr1ata/main/Full_Stack_Web_Developer_.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
