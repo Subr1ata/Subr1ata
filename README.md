@@ -1,6 +1,7 @@
 <!----------------------------------- Banner - Subrata Mukherjee ------------------------------------>
 [![MasterHead](https://raw.githubusercontent.com/Subr1ata/Subr1ata/main/Full_Stack_Web_Developer_.png)](#)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Subr1ata&theme=shadow-green&hide_border=true&border_radius=0&card_width=1000)](https://git.io/streak-stats)
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <h3>Hi, I'm Subrata Mukherjee</h3>
